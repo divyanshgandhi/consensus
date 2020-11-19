@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353114150593",
+    "firebase_url": "https://consensus-f493c.firebaseio.com",
+    "project_id": "consensus-f493c",
+    "storage_bucket": "consensus-f493c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353114150593:android:ccb073c7d81b6cd72a6640",
+        "android_client_info": {
+          "package_name": "com.example.consensus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353114150593-rk6bar9sjf5h5inoh52njit7n5mkt88m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmoYXyJeWc4VlbZY-Agduxm7QnVd_HBgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353114150593-rk6bar9sjf5h5inoh52njit7n5mkt88m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
